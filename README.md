@@ -1,6 +1,6 @@
 # yasmin-alshurafa.github.io
 
-## Assignment 1
+## Assignment 1: 30MFF WEB SITE
 
 ### Project Name
 Webpage: Connecting from Distance
@@ -8,10 +8,15 @@ Webpage: Connecting from Distance
 ### Project Description
 
   - What is the project?
+
   This webpage project was created to house and debut the film that was part of the 30 Minute Film Festival. The webpage is there to give more information and details about the film shoot.
+
   - What is the overall concept and theme?
+
   The concept behind the film entry is to tell the story of how three students from different parts of the world studying abroad connect with their families and friends in this digital world. The film depicts the use of different languages and messaging apps by students depending on where the students are coming from. Connecting and disconnecting with people through the use of the technology that is surrounding humans is the main theme of this film.
+  
   - What kind of experience you were striving to create?
+
   The background music used in the film is calming and relaxing. This is because connecting to our loved ones brings happiness and calmness. In addition, the cast of the film don’t make any physical appearance. This is to show the viewers that the situation the students are in; being away from their loved ones can happen to anyone regardless of where the person is coming from. Through this webpage, I strive to create the same pacifying and relaxing experience the film delivers to the webpage’s visitors.
 
 ### Process: How did you go about implementing the concept?
